@@ -25,9 +25,9 @@
 <a href="https://t.me/Englishhindichattingroom">
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/unreal_hun_bro)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/LEGEND_EXPRESS)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/unreal_hun_bro)
+## 𝙾𝚆𝙽𝙴𝚁 -[NEONIC🇮🇳](https://t.me/unreal_hun_bro)
+## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[LEGEND🇮🇳](https://t.me/LEGEND_EXPRESS)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[NEONIC🇮🇳](https://t.me/unreal_hun_bro)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
