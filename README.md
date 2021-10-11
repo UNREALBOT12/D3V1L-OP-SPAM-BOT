@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5f300db034fe1c137d295.jpg">
+  <img src="https://telegra.ph/file/47936310360746ffdc2fe.jpg">
 </p>
 
 
@@ -15,19 +15,19 @@
 ----
 
 ## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0/network/members"><img src="https://img.shields.io/github/forks/dangerousjatt/SpamBot-2.0?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0/stargazers"><img src="https://img.shields.io/github/stars/dangerousjatt/SpamBot-2.0?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0?"><img src="https://img.shields.io/github/last-commit/dangerousjatt/SpamBot-2.0?style=plastic"></
+<p align="left"><a </
 
 -------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/we_are_legendss">
+<a href="https://t.me/Englishhindichattingroom">
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/OFFICIAL_SAMEER)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/IDANISHBAABA)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/USTAD_OP)
+## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/unreal_hun_bro)
+## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/LEGEND_EXPRESS)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/unreal_hun_bro)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
