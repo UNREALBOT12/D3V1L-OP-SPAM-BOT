@@ -20,8 +20,9 @@
 -------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 -[🇮🇳→CLICK HERE←🇮🇳](https://t.me/we_are_legendss)                         
+                          
 <a href="https://t.me/we_are_legendss">
+<a href="https://t.me/Englishhindichattingroom">
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[NEONIC🇮🇳](https://t.me/unreal_hun_bro)
@@ -30,6 +31,6 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-SPAM-BOT-2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT)
 ------------------------------------------------
 
