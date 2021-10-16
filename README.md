@@ -31,6 +31,6 @@
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://dashboard.heroku.com/apps/devil-spam-bot-op/deploy/github)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/apps/devil-spam/deploy/github)
 ------------------------------------------------
 
