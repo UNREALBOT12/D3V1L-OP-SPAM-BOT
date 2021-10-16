@@ -20,9 +20,8 @@
 -------------------------------------------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-                          
+## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 -[🇮🇳](https://t.me/we_are_legendss)                         
 <a href="https://t.me/we_are_legendss">
-<a href="https://t.me/Englishhindichattingroom">
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[NEONIC🇮🇳](https://t.me/unreal_hun_bro)
