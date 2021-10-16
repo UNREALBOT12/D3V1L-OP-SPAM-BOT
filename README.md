@@ -34,3 +34,46 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT)
 ------------------------------------------------
 
+## How To Fill - Config Vars
+
+API_HASH Required
+Api Hash
+-FILL YOU API HASH GET IT FROM my.telegram.org
+
+APP_ID Required
+-FILL YOU API ID GET IT FROM my.telegram.org
+
+BOT_TOKEN Required
+-Bot token, get it from @BotFather
+
+BOT_TOKEN10
+-Bot token, get it from @BotFather
+
+BOT_TOKEN2
+-Bot token, get it from @BotFather
+
+BOT_TOKEN3
+-Bot token, get it from @BotFather
+
+BOT_TOKEN4
+-Bot token, get it from @BotFather
+
+BOT_TOKEN5
+-Bot token, get it from @BotFather
+
+BOT_TOKEN6
+-Bot token, get it from @BotFather
+
+BOT_TOKEN7
+-Bot token, get it from @BotFather
+
+BOT_TOKEN8
+-Bot token, get it from @BotFather
+
+BOT_TOKEN9
+-Bot token, get it from @BotFather
+
+SUDO_USERS Required
+-sudo Users Id
+
+Deploy app😍🇮🇳
