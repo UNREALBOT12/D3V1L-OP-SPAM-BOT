@@ -43,7 +43,7 @@ Api Hash
 ## APP_ID Required
 -FILL YOU API ID GET IT FROM my.telegram.org
 
-## OT_TOKEN Required
+## BOT_TOKEN Required
 -Bot token, get it from @BotFather
 
 ## BOT_TOKEN10
