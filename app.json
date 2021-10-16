@@ -9,9 +9,9 @@
         "Unreal-op",
         "SpamBots"
     ],
-    "repository": "https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT/edit",
-    "website": "https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT/edit",
-    "success_url": "https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT/edit",
+    "repository": "https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT",
+    "website": "https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT",
+    "success_url": "https://github.com/UNREALBOT12/D3V1L-OP-SPAM-BOT",
     "env": {
       "BOT_TOKEN": {
         "description": "Bot token, get it from @BotFather",
