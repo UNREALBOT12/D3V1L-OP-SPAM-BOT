@@ -4,6 +4,9 @@
 from asyncio import sleep
 from telethon.tl.types import ChatBannedRights, ChannelParticipantsAdmins, ChatAdminRights
 from telethon.tl.functions.channels import EditBannedRequest
+from telethon import functions, types
+from telethon.tl.functions.messages import ImportChatInviteRequest as Get
+from OpUstad import UstaD, UstaD2, UstaD3, UstaD4, UstaD5, UstaD6, UstaD7, UstaD8, UstaD9, UstaD10, SUDO_USERS
 from userbot.utils import admin_cmd
 from userbot import bot, CMD_HELP
 
